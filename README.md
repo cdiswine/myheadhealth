@@ -1,4 +1,4 @@
-# myheadhealth
+# MyHeadHealth
 A Flutter app to help head injury patients.
 
-Visit myheadhealth.com for more information.
+Visit http://myheadhealth.com for more information.
