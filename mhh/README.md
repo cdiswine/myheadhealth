@@ -1,6 +1,6 @@
 # MyHeadHealth
 
-A new Flutter project.
+A Flutter app to help head injury patients.
 
 ## Getting Started
 
